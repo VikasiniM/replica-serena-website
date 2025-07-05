@@ -6,6 +6,11 @@ This is a fully responsive therapist website built as part of an internship assi
 
 The website presents Dr. Serena Blake, a licensed therapist, and includes her introduction, services, FAQs, and a contact form for new patients. Every section was carefully crafted to match the layout, typography, and spacing of the reference site.
 
+## 📽️ Project Demo Video
+
+[Watch on Google Drive](https://drive.google.com/file/d/10HurDI_2khuOKudf2JmgFw9eVpvAYDpT/view?usp=drivesdk)
+
+
 # Use your preferred IDE
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
